@@ -1,0 +1,23 @@
+body {
+ background-color: rgb(0, 0, 0);  
+
+}
+img {
+ border-radius: 50px;
+}
+h4 {
+    color: white;
+}
+h3 {
+    text-align: center;
+color: rgb(149, 217, 235)
+}
+p {
+    color: white;
+}
+a {
+    color: rgb(141, 181, 216);
+}
+h2 {
+    color: rgb(255, 255, 255);
+}
